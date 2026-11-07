@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body {
+  background:
+    radial-gradient(520px 380px at 15% 0, #00e5ff1c, transparent),
+    radial-gradient(520px 380px at 90% 8%, #ff2bd61c, transparent),
+    #06070d;
+  color: #ededf4;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  min-height: 100dvh;
+}
