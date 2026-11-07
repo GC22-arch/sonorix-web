@@ -37,7 +37,7 @@ npm install
 npm run dev
 ```
 
-Stack: Next.js 16, React 19, TypeScript, Tailwind CSS 3.4, Zod y Zustand, con arquitectura feature-first de SaaS Factory.
+Stack: Next.js 16, React 19, TypeScript, Tailwind CSS 3.4, Zod y Zustand, con arquitectura feature-first.
 
 ---
 
